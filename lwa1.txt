@@ -1,0 +1,4 @@
+retention - fixed date - only future date - application purge if table - table will moved to purge
+duration - mudicha dtae + future 
+
+hold - to hold the retension
